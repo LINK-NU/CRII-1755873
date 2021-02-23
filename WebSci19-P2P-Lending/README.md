@@ -1,0 +1,7 @@
+# Harnessing Collective Intelligence in P2P Lending
+
+Crowd financing is a burgeoning phenomenon that promises to improve access to capital by enabling borrowers with limited financial opportunities to receive small contributions from individual lenders towards unsecured loan requests. Faced with information asymmetry about borrowers' credibility, individual lenders bear the entire loss in case of loan default. Predicting loan payment is therefore crucial for lenders and for the sustainability of these platforms. To this end, we examine whether the ''wisdom'' of the lending crowd can provide reliable decision support with respect to projects' long-term success. Using data from Prosper, we investigate the association between the dynamics of lending behaviour and successful loan payment through interpretable classification models. We find evidence for collective intelligence signals in lending behaviour and observe variability in crowd wisdom across loan categories. We find that the wisdom of the lending crowd is most prominent in the auto loan category, but it is statistically significant for all other categories except student debt. Our study contributes new insights on how signals deduced from lending behaviour can improve the efficiency of crowd financing thereby contributing to economic growth and societal development.
+
+## Citation
+
+Dambanemuya, H.K. and Horvát, E-Á., 2019. Harnessing Collective Intelligence in P2P Lending. *Proceedings of the 10th ACM Conference on Web Science (WebSci), pp.57-64*. DOI: https://doi.org/10.1145/3292522.3326040
