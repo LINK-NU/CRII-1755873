@@ -1,0 +1,5 @@
+/Data/
+*checkpoint*
+*.pyc
+*.Rhistory*
+*.DS_Store*

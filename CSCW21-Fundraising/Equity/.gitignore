@@ -1,0 +1,7 @@
+/Data/
+*checkpoint*
+*.pyc
+*.csv*
+*.RData*
+*.Rhistory*
+*.DS_Store*

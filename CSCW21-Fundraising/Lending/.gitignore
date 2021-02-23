@@ -1,0 +1,5 @@
+/Data/
+*checkpoint*
+*.pyc
+*.out*
+*.DS_Store*

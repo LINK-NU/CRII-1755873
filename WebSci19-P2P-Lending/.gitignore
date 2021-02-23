@@ -1,0 +1,9 @@
+/Data/
+/Scripts/
+Notes.txt
+.DS_Store
+.RData
+.Rhistory
+*.out
+/Manuscripts/
+/Presentations/
