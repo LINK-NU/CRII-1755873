@@ -4,4 +4,4 @@ Investigations of social influence in collective decision-making have become pos
 
 ## Citation
 
-Dambanemuya, H.K., Wachs, J., and Horvát, E-Á. Understanding (Ir)rational Herding Online. Pre-print available at (coming soon)
+Dambanemuya, H.K., Wachs, J., and Horvát, E-Á., 2023. Understanding (Ir)rational Herding Online. Proceedings of the ACM Collective Intelligence Conference. DOI: https://doi.org/10.1145/3582269.3615598
