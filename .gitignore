@@ -1,2 +1,5 @@
 *.DS_Store*
 acm_license.pdf
+*Checkpoint*
+*.csv
+*.xlsx
